@@ -1,0 +1,25 @@
+{
+  "slug": "midimix_seq",
+  "name": "midimix_seq",
+  "version": "2.0.0",
+  "license": "CC0-1.0",
+  "brand": "midimix_seq",
+  "author": "David Jonsson",
+  "authorEmail": "dajo1193@student.uu.se",
+  "authorUrl": "https://github.com/david-jonsson",
+  "pluginUrl": "",
+  "manualUrl": "",
+  "sourceUrl": "",
+  "donateUrl": "",
+  "changelogUrl": "",
+  "modules": [
+    {
+      "slug": "midimix_seq",
+      "name": "midimix_seq",
+      "description": "midimix sequencer",
+      "tags": [
+        "sequencer"
+      ]
+    }
+  ]
+}
